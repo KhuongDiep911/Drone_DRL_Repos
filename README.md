@@ -2,16 +2,14 @@
 This repo lists some projects that implement Deep Reinforcement Learning for Self-driving vehicles
 
 ## Airsim
-### Car
-- [Experiments with Deep Reinforcement Learning on autonomous vehicles (car and uav drone) in AirSim Simulator](https://github.com/hoangtranngoc/AirSim-RL)
-
 ### Drone
 - [DRLDBackEnd: Deep Reinforcement Learning methods for an autonomous drone](https://github.com/guillemhub/DRLDBackEnd)
 - [An approach for UAV indoor obstacle avoidance based on AI technique with ensemble of ResNet8 and Res-DQN](https://github.com/winter2897/UAV-indoor-obstacle-avoidance-based-on-AI-technique)
 - [Air Learning project: from simulation to reality](https://github.com/harvard-edge/airlearning)
 - [Master thesis: A basic implementation of imitation learning using Stable Baselines 2.10](https://github.com/prabhasak/masters-thesis)
 - [Deep Reinforcement Learning based autonomous navigation for quadcopters using PPO algorithm](https://github.com/bilalkabas/PPO-based-Autonomous-Navigation-for-Quadcopters)
-
+### Car
+- [Experiments with Deep Reinforcement Learning on autonomous vehicles (car and uav drone) in AirSim Simulator](https://github.com/hoangtranngoc/AirSim-RL)
 ## Other
 - [
 UAV_obstacle_avoidance_controlle: UAV Obstacle Avoidance using Deep Recurrent Reinforcement Learning with Temporal Attention](https://github.com/abhiksingla/UAV_obstacle_avoidance_controller)
