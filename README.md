@@ -16,6 +16,9 @@ This repo lists some projects that implement Deep Reinforcement Learning for Sel
 - [Paper: Mobile Robot Navigation based on Deep Reinforcement Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8832393)
 
 ## Survey
+- [Paper: Drone Deep Reinforcement Learning: A Review](https://www.mdpi.com/2079-9292/10/9/999)
+- [Paper: Autonomous Unmanned Aerial Vehicle navigation using Reinforcement
+Learning: A systematic review](https://www.sciencedirect.com/science/article/pii/S095219762200358X?casa_token=CZL8LhG37LUAAAAA:OU5Ds5rF_mUDhg-joHKq84CP2S6WGKM2MgD3RCs9i3xF3CJV4hmfTM2KOcrY7JT1vYGQ7V38nTA5)
 - [Paper: A Survey on Visual Navigation for Artificial
 Agents With Deep Reinforcement Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9146614)
 
