@@ -10,10 +10,6 @@ This repo lists some projects that implement Deep Reinforcement Learning for Sel
 - [Deep Reinforcement Learning based autonomous navigation for quadcopters using PPO algorithm](https://github.com/bilalkabas/PPO-based-Autonomous-Navigation-for-Quadcopters)
 ### Car
 - [Experiments with Deep Reinforcement Learning on autonomous vehicles (car and uav drone) in AirSim Simulator](https://github.com/hoangtranngoc/AirSim-RL)
-## Other
-- [
-UAV_obstacle_avoidance_controlle: UAV Obstacle Avoidance using Deep Recurrent Reinforcement Learning with Temporal Attention](https://github.com/abhiksingla/UAV_obstacle_avoidance_controller)
-- [gymfc: A universal flight control tuning framework](https://github.com/wil3/gymfc)
 
 ## ROS + Gazebo
 ### Mobile robot
@@ -26,5 +22,11 @@ Agents With Deep Reinforcement Learning](https://ieeexplore.ieee.org/stamp/stamp
 ## Understanding RL
 - [Visualizing and Understanding Atari Agents](https://github.com/greydanus/visualize_atari)
 - [Understanding RL Vision](https://github.com/openai/understanding-rl-vision)
+
+## Other
+- [
+UAV_obstacle_avoidance_controlle: UAV Obstacle Avoidance using Deep Recurrent Reinforcement Learning with Temporal Attention](https://github.com/abhiksingla/UAV_obstacle_avoidance_controller)
+- [gymfc: A universal flight control tuning framework](https://github.com/wil3/gymfc)
+
 
 Still updating ...
