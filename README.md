@@ -14,6 +14,15 @@ This repo lists some projects that implement Deep Reinforcement Learning for Sel
 - [
 UAV_obstacle_avoidance_controlle: UAV Obstacle Avoidance using Deep Recurrent Reinforcement Learning with Temporal Attention](https://github.com/abhiksingla/UAV_obstacle_avoidance_controller)
 - [gymfc: A universal flight control tuning framework](https://github.com/wil3/gymfc)
+
+## ROS + Gazebo
+### Mobile robot
+- [Paper: Mobile Robot Navigation based on Deep Reinforcement Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8832393)
+
+## Survey
+- [Paper: A Survey on Visual Navigation for Artificial
+Agents With Deep Reinforcement Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9146614)
+
 ## Understanding RL
 - [Visualizing and Understanding Atari Agents](https://github.com/greydanus/visualize_atari)
 - [Understanding RL Vision](https://github.com/openai/understanding-rl-vision)
